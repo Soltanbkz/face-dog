@@ -1,0 +1,8 @@
+.content{
+  grid-area: c;
+  background: linear-gradient(white, #D3D8E8);
+}
+.content img{
+  width: 1000px;
+  height: 200px;
+}

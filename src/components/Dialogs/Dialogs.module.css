@@ -1,0 +1,22 @@
+.dialogs {
+    background: linear-gradient(white, #D3D8E8);
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+    font-size: 20px;
+    
+}
+.dialogsItems{
+    padding: 10px;
+}
+.dialog{
+    
+}
+.active{
+    color: goldenrod;
+}
+.messages{
+
+}
+.message{
+
+}
