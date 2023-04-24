@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FaceDog/static/css/main.ee962804.css",
+    "main.js": "/FaceDog/static/js/main.03cc02a4.js",
+    "static/js/787.ad5b5d77.chunk.js": "/FaceDog/static/js/787.ad5b5d77.chunk.js",
+    "index.html": "/FaceDog/index.html",
+    "main.ee962804.css.map": "/FaceDog/static/css/main.ee962804.css.map",
+    "main.03cc02a4.js.map": "/FaceDog/static/js/main.03cc02a4.js.map",
+    "787.ad5b5d77.chunk.js.map": "/FaceDog/static/js/787.ad5b5d77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee962804.css",
+    "static/js/main.03cc02a4.js"
+  ]
+}
